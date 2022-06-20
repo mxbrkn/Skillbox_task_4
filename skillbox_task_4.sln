@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "skillbox_task_4", "skillbox_task_4\skillbox_task_4.csproj", "{E1D52184-3FE0-42EA-A910-56FA8489B746}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillbox_task_4", "skillbox_task_4\Skillbox_task_4.csproj", "{E1D52184-3FE0-42EA-A910-56FA8489B746}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_task_4_2", "skillbox_task_4_2\skillbox_task_4_2.csproj", "{7759F51D-68FF-436C-8AC6-74A9EF0A3FA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillbox_task_4_2", "skillbox_task_4_2\Skillbox_task_4_2.csproj", "{7759F51D-68FF-436C-8AC6-74A9EF0A3FA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skillbox_task_4_3", "skillbox_task_4_3\skillbox_task_4_3.csproj", "{7A2BC5CC-3337-45C9-B7C7-C84D1812B099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Skillbox_task_4_3", "skillbox_task_4_3\Skillbox_task_4_3.csproj", "{7A2BC5CC-3337-45C9-B7C7-C84D1812B099}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

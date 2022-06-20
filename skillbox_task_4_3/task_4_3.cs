@@ -15,14 +15,17 @@ Console.ForegroundColor = ConsoleColor.White;
 while (true)
 {
     Console.WriteLine("\nВаше предположение: ");
-    try 
-    {
-        userNumber = Convert.ToInt32(Console.ReadLine());
-    }
-    catch 
+    
+    string userData = Console.ReadLine();
+
+    if (userData == "")
     {
         Console.WriteLine($"Было загадано {guessNumber}");
         break;
+    }
+    else
+    {
+        userNumber = Convert.ToInt32(userData);
     }
  
 
