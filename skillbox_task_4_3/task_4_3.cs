@@ -18,7 +18,7 @@ while (true)
     
     string userData = Console.ReadLine();
 
-    if (userData == "")
+    if (String.IsNullOrEmpty(userData))
     {
         Console.WriteLine($"Было загадано {guessNumber}");
         break;
